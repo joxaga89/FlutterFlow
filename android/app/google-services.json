@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88083676158",
+    "project_id": "conexion-fire-base-b-d-u7dggu",
+    "storage_bucket": "conexion-fire-base-b-d-u7dggu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88083676158:android:595d79af3beec9fd5a5eaf",
+        "android_client_info": {
+          "package_name": "com.mycompany.conexionfirebasebd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYRatTZjckq3_OsKVfrnVn23gBzyi1uys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
